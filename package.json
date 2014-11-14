@@ -1,0 +1,27 @@
+{
+  "name": "NickleDime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HelloWallet/NickleDime.git"
+  },
+  "author": "Evan Samek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloWallet/NickleDime/issues"
+  },
+  "homepage": "https://github.com/HelloWallet/NickleDime",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-compass": "^2.0.1",
+    "gulp-concat": "^2.4.1",
+    "gulp-ember-handlebars": "^0.7.0",
+    "gulp-uglify": "^1.0.1",
+    "gulp-watch": "^1.2.0"
+  }
+}
